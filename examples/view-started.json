@@ -1,0 +1,10 @@
+{
+  "event_id": "2958f872-5297-4a02-85ad-55d2de7556ad",
+  "user_id": "viewer-example",
+  "movie_id": "movie-example",
+  "event_type": "VIEW_STARTED",
+  "timestamp": "2026-11-22T12:00:00Z",
+  "device_type": "TV",
+  "session_id": "session-example",
+  "progress_seconds": 0
+}
